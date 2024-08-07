@@ -13,6 +13,7 @@ function App() {
         </h3>
           <p>............</p>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos exercitationem incidunt distinctio fugiat iusto dolorum nisi assumenda enim! Esse, iusto similique facere quisquam eos distinctio recusandae quidem neque inventore voluptatum.</p>
+          <p>鎖喉ㄌ</p>
       </div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
