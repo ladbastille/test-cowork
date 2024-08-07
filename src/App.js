@@ -9,8 +9,9 @@ function App() {
           this is AG
         </h2>
         <h3>
-          this is not cool
+         is not cool
         </h3>
+          <p>............</p>
       </div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
