@@ -17,6 +17,7 @@ function App() {
           <p>要喝熱水還是吃喉糖ㄌㄟ都是茉莉奶綠害我卡卡ㄉ但他好好喝</p>
           <p>全家咖啡怎麼沒有比鴉某些人沖得難喝其實頗讚才六十塊</p>
           <p>嗚嗚嗚嗚嗚嗚不舒服嗚嗚嗚嗚嗚</p>
+          <p>嗚嗚嗚嗚嗚好想睡嗚嗚嗚嗚嗚</p>
       </div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
