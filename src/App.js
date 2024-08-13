@@ -19,6 +19,7 @@ function App() {
           <p>嗚嗚嗚嗚嗚嗚不舒服嗚嗚嗚嗚嗚</p>
           <p>嗚嗚嗚嗚嗚好想睡嗚嗚嗚嗚嗚</p>
           <p>吼吼吼吼吼</p>
+          <p>學屁學==</p>
       </div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
