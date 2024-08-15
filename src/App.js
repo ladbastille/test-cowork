@@ -20,6 +20,7 @@ function App() {
           <p>嗚嗚嗚嗚嗚好想睡嗚嗚嗚嗚嗚</p>
           <p>吼吼吼吼吼</p>
           <p>I wanna dance to A.G</p>
+          <p>越來越好玩越來越好玩</p>
       </div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
